@@ -7,8 +7,11 @@
 ## - 🤔 I'm looking for help with new project ideas
 ## - 🎯 My main goal is to create something meaningful
 
-## GitHub Achievements
+## 🏆 GitHub Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dobryak99)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 💥 Streak Stats 💥
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dobryak99)](https://git.io/streak-stats)
 
 
 
