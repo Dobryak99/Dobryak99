@@ -1,10 +1,16 @@
 # Hello everyone, I am [Nikita](https://github.com/Dobryak99)👋
-## - 🌱 I’m currently learning C++
-## - 🤔 I'm looking for help with new project ideas
-## - &#127919
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+## - 🌱 I’m currently learning C++, SQL, CMake, SFML
+## - 🤔 I'm looking for help with new project ideas
+## - 🎯 My main goal is to create something meaningful
+
+
+
 <!--
 **Dobryak99/Dobryak99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
