@@ -18,9 +18,8 @@
 ## 🖥 Technologies
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dobryak99&layout=compact&theme=dark&hide=Roff)](https://github.com/Dobryak99/github-readme-stats)
 
-
-
-
+## ⚔️ Codewars stats
+[![codewars](https://www.codewars.com/users/Dobryak99/badges/large)](https://www.codewars.com/users/username)
 
 <!--
 **Dobryak99/Dobryak99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
