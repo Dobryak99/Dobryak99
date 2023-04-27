@@ -1,5 +1,6 @@
-### Hello everyone, I am [Nikita](https://github.com/Dobryak99)👋
-
+# Hello everyone, I am [Nikita](https://github.com/Dobryak99)👋
+## 🌱 I’m currently learning C++
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 <!--
 **Dobryak99/Dobryak99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
