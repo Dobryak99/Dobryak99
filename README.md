@@ -27,6 +27,9 @@
 ## ⚔️ Codewars stats
 [![codewars](https://www.codewars.com/users/Dobryak99/badges/large)](https://www.codewars.com/users/username)
 
+## LeetCode stats
+![Leetcode Stats](https://leetcode.com/Dobryak99?theme=dark)
+
 <!--
 **Dobryak99/Dobryak99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
