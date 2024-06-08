@@ -11,9 +11,9 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## ©️ Some info about me
- - 🌱 I’m currently learning C++, SQL, CMake, SFML
- - 🤔 I'm looking for help with new project ideas
- - 🎯 My main goal is to create something meaningful
+ - 🌱 I’m currently learning Swift and UIKit framework.
+ - 🤔 I'm looking for help with new project ideas.
+ - 🎯 My main goal is to create something meaningful.
 
 ## 🏆 GitHub Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dobryak99&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
